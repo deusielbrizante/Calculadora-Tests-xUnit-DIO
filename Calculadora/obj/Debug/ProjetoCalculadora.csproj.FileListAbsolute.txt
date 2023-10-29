@@ -1,0 +1,7 @@
+C:\Users\deusi\source\repos\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\deusi\source\repos\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\deusi\source\repos\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\deusi\source\repos\Calculadora\obj\Debug\ProjetoCalculadora.csproj.AssemblyReference.cache
+C:\Users\deusi\source\repos\Calculadora\obj\Debug\ProjetoCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\deusi\source\repos\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\deusi\source\repos\Calculadora\obj\Debug\Calculadora.pdb
